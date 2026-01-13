@@ -1,0 +1,8 @@
+# Credentials
+.pat
+
+# Build artifacts
+build/
+
+# OS metadata
+.DS_Store
